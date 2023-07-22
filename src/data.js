@@ -33,7 +33,7 @@ function chillHop() {
         {
             name:"fart 1",
             artist: "prank",
-            cover: "hhttps://firebasestorage.googleapis.com/v0/b/fartsounds-364e1.appspot.com/o/icon2.png?alt=media&token=3ef42967-21e8-401f-8d70-b03f1c64deb8,
+            cover: "https://firebasestorage.googleapis.com/v0/b/fartsounds-364e1.appspot.com/o/icon2.png?alt=media&token=3ef42967-21e8-401f-8d70-b03f1c64deb8",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://firebasestorage.googleapis.com/v0/b/fartsounds-364e1.appspot.com/o/ES_Fart%201%20-%20SFX%20Producer.mp3?alt=media&token=4b7c5a35-822b-47a1-b3e3-5d0034e546a5",
